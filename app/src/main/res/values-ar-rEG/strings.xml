@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">النشاط 3</string>
+    <string name="subject">تطوير تطبيقات الأجهزة المحمولة</string>
+    <string name="name">بابلو</string>
+    <string name="last_name">هرنانديز</string>
+    <string name="home_screen">Home</string>
+    <string name="back_btn_desc">Atras</string>
+    <string name="bottom_app_bar">La barrita de hasta abajo, pero en arabe</string>
+    <string name="home_fab_text">jelou pero en arabe</string>
+</resources>

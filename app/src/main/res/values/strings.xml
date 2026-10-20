@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Practica3</string>
+    <string name="subject">Desarrollo de aplicaciones móviles</string>
+    <string name="name">Pablo</string>
+    <string name="last_name">Hernández</string>
+    <string name="home_screen">Inicio</string>
+    <string name="back_btn_desc">Atras</string>
+    <string name="bottom_app_bar">La barrita de hasta abajo</string>
+    <string name="home_fab_text">jelou</string>
+</resources>

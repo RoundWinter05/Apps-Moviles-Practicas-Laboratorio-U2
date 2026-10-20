@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Activity3</string>
+    <string name="subject">Mobile App Development</string>
+    <string name="name">Pablo</string>
+    <string name="last_name">Hernández</string>
+    <string name="home_screen">Home</string>
+    <string name="back_btn_desc">Atras</string>
+    <string name="bottom_app_bar">La barrita de hasta abajo pero en inglich</string>
+    <string name="home_fab_text">jelou</string>
+</resources>
