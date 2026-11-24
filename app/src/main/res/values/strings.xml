@@ -7,4 +7,10 @@
     <string name="back_btn_desc">Atras</string>
     <string name="bottom_app_bar">La barrita de hasta abajo</string>
     <string name="home_fab_text">jelou</string>
+    <string name="mail">Correo</string>
+    <string name="options_menu">Opciones</string>
+    <string name="SMS">SMS</string>
+    <string name="Map">Mapa</string>
+    <string name="image_description" />
+    <string name="title_activity_second">SecondActivity</string>
 </resources>
